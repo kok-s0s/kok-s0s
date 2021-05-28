@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kok_s0s@163.com or [My blog](https://kok-s0s.top)
 - ⚡ Fun fact: I like to assemble models in my leisure time, which can calm my impetuous heart.
 
+![](https://komarev.com/ghpvc/?username=kok-s0s&color=brightgreen)
