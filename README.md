@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 🔭 I am currently studying in scnu
-- 🌱 I’m currently learning Web Security and Front-End
+- 🔭 I am currently studying in scnu.
+- 🌱 I’m currently learning Web Security and Front-End.
 - 📓 Rewriting record---[GitBook](https://2694308562.gitbook.io/notes/)
 - 📫 How to reach me: kok_s0s@163.com or [My blog](https://kok-s0s.top) 
 - ⚡ Fun fact: I like to assemble models in my leisure time, which can calm my impetuous heart.
