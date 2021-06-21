@@ -10,7 +10,8 @@
 - ⚡ Fun fact: I like to assemble models in my leisure time, which can calm my impetuous heart.
 - 📖 Maybe you can get to know me better through [GithubMemory](https://githubmemory.com/@kok-s0s).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kok-s0s)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kok-s0s&show_icons=true&theme=radical)
+
 
 <!--
 and [My-Knowledge-System](https://gitmind.com/app/doc/1912500597).
