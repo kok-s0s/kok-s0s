@@ -8,11 +8,23 @@ kok-s0s是一个喜欢瞎折腾的人，网络安全专业出身，大学每门�
 
 ## 2021年的kok-s0s：
 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kok-s0s&show_icons=true&theme=radical) -->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kok-s0s&show_icons=true&theme=radical">
+
 - SCNU网络安全专业在读生
 - [大型同性交友网站](https://github.com/kok-s0s)冲浪高手
 - 模型爱好者
 - 前端爱好者
-- 技术栈
+
+**技术栈**
+- 学校学的 
+  - ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-%23BBFBF5) ![Java](https://img.shields.io/badge/-Java-%23BBFBF5) ![Python](https://img.shields.io/badge/-Python-%23BBFBF5) ![MySQL](https://img.shields.io/badge/-MySQL-%23BBFBF5) ![Latex](https://img.shields.io/badge/-Latex-%23BBFBF5) ![OS](https://img.shields.io/badge/-OS-%23BBFBF5)
+
+- 自学的
+  - ![HTML/CSS/JavaScript](https://img.shields.io/badge/-HTML%2FCSS%2FJavaScript-%23BBFBF5) ![TypeScript](https://img.shields.io/badge/-TypeScript-%23BBFBF5) ![node.js](https://img.shields.io/badge/-node.js-%23BBFBF5) ![docker](https://img.shields.io/badge/-docker-%23BBFBF5) ![git](https://img.shields.io/badge/-git-%23BBFBF5) ![hexo](https://img.shields.io/badge/-hexo-%23BBFBF5) ![Vue](https://img.shields.io/badge/-Vue-%23BBFBF5)
+ 
+<!-- - 技术栈
   - 学校学的
     - C/C++
     - Java
@@ -27,6 +39,6 @@ kok-s0s是一个喜欢瞎折腾的人，网络安全专业出身，大学每门�
     - docker
     - git
     - hexo
-    - Vue
+    - Vue -->
 
 
