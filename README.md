@@ -19,7 +19,8 @@ kok-s0s是一个喜欢瞎折腾的人，网络安全专业出身，大学每门�
 
 **技术栈**
 - 学校学的 
-  - ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-%23BBFBF5) ![Java](https://img.shields.io/badge/-Java-%23BBFBF5) ![Python](https://img.shields.io/badge/-Python-%23BBFBF5) ![MySQL](https://img.shields.io/badge/-MySQL-%23BBFBF5) ![Latex](https://img.shields.io/badge/-Latex-%23BBFBF5) ![OS](https://img.shields.io/badge/-OS-%23BBFBF5)
+  - ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-%23BBFBF5) ![Java](https://img.shields.io/badge/-Java-%23BBFBF5) ![Python](https://img.shields.io/badge/-Python-%23BBFBF5) ![MySQL](https://img.shields.io/badge/-MySQL-%23BBFBF5) ![Latex](https://img.shields.io/badge/-Latex-%23BBFBF5) 
+
 
 - 自学的
   - ![HTML/CSS/JavaScript](https://img.shields.io/badge/-HTML%2FCSS%2FJavaScript-%23BBFBF5) ![TypeScript](https://img.shields.io/badge/-TypeScript-%23BBFBF5) ![node.js](https://img.shields.io/badge/-node.js-%23BBFBF5) ![docker](https://img.shields.io/badge/-docker-%23BBFBF5) ![git](https://img.shields.io/badge/-git-%23BBFBF5) ![hexo](https://img.shields.io/badge/-hexo-%23BBFBF5) ![Vue](https://img.shields.io/badge/-Vue-%23BBFBF5)
@@ -31,7 +32,7 @@ kok-s0s是一个喜欢瞎折腾的人，网络安全专业出身，大学每门�
     - Python
     - Latex
     - MySQL
-    - OS
+    - OS   ![OS](https://img.shields.io/badge/-OS-%23BBFBF5)
   - 自学的
     - HTML/CSS/JavaScript
     - TypeScript
