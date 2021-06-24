@@ -1,18 +1,30 @@
-### Here is What I'm Working On!
-<!--
-**kok-s0s/kok-s0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+我是一个喜欢瞎折腾的人，网络安全专业出身，大学每门选修课我都去上过，接触过各个领域的东西，什么云计算，安卓开发等等，但很抱歉，我都不精通。
 
-- 🔭 I am currently studying in scnu.
-- 🌱 I’m currently learning Web Security and Front-End.
-- 📓 Rewriting record---[GitBook](https://2694308562.gitbook.io/notes/)
-- 📫 How to reach me: kok_s0s@163.com or [My blog](https://kok-s0s.top) 
-- ⚡ Fun fact: I like to assemble models in my leisure time, which can calm my impetuous heart.
-- 📖 Maybe you can get to know me better through [GithubMemory](https://githubmemory.com/@kok-s0s).
+大三下找实习才开始认真思考自己的未来方向，起初网安出身，打算走Web安全这块，但学到一半感觉，觉得自己有些扯淡，开发都不怎么会，居然搞安全。
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kok-s0s&show_icons=true&theme=radical)
+机缘巧合有参与了朋友的小程序作业，了解到前端的一些魅力（能做出些好看的东西），5月份真的决定走开发这块，现在学习前端相关知识，在FFC上疯狂刷题中，并游走在各个视频中学习。
+
+## 2021年的我：
+
+- SCNU网络安全专业在读生
+- [大型同性交友网站](https://github.com/kok-s0s)冲浪高手
+- 模型爱好者
+- 前端爱好者
+- 技术栈
+  - 学校学的
+    - C/C++
+    - Java
+    - Python
+    - Latex
+    - MySQL
+    - OS
+  - 自学的
+    - HTML/CSS/JavaScript
+    - TypeScript
+    - node.js
+    - docker
+    - git
+    - hexo
+    - Vue
 
 
-<!--
-and [My-Knowledge-System](https://gitmind.com/app/doc/1912500597).
--->
