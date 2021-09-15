@@ -20,7 +20,7 @@ kok-s0s是一个喜欢瞎折腾的人，网络安全专业出身，大学每门�
 </p>
 
 <p align="right">
-📲 Wechat: kok-s0s_OoO
+📲 WeChat: kok-s0s_OoO
 </p>
 
 
