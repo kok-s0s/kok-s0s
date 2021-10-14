@@ -1,5 +1,7 @@
 <!--START_SECTION:waka-->
 ```text
+Week: 07 October, 2021 - 13 October, 2021
+
 Vue.js       55 mins         ████████████░░░░░░░░░░░░░   48.61 % 
 JSON         16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 % 
 Git Config   15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 % 
