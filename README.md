@@ -1,13 +1,5 @@
 <!--START_SECTION:waka-->
-```text
-Week: 07 October, 2021 - 13 October, 2021
 
-Vue.js       55 mins         ████████████░░░░░░░░░░░░░   48.61 % 
-JSON         16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Git Config   15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-HTML         10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Markdown     8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-```
 <!--END_SECTION:waka-->
 
 ---
