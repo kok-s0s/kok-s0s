@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Front-End**
 
-- 📝 I regularly write articles on [kok-s0s.top](kok-s0s.top)
+- 📝 I regularly write articles on [kok-s0s.top](https://kok-s0s.top/)
 
 <p align="left">
 </p>
