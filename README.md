@@ -1,10 +1,3 @@
-<h1 align="center">Hi 👋, I'm kok-s0s</h1>
-<h3 align="center">I like to use code to solve some things in life！</h3>
-
-- 🌱 I’m currently learning **Front-End**
-
-- 📝 I regularly write articles on [kok-s0s.top](https://kok-s0s.top/)
-
 
 
 <!--START_SECTION:waka-->
