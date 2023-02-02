@@ -11,16 +11,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 October 2021 - To: 30 January 2023
+From: 12 October 2021 - To: 31 January 2023
 
-Total Time: 1,125 hrs 27 mins
+Total Time: 1,129 hrs 59 mins
 
-TypeScript     253 hrs 7 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.49 %
-Markdown       220 hrs 58 mins █████░░░░░░░░░░░░░░░░░░░░   19.63 %
-Vue.js         200 hrs 10 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.79 %
-C++            110 hrs 3 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
-HTML           86 hrs 22 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
-JavaScript     72 hrs 45 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+TypeScript     253 hrs 7 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.40 %
+Markdown       221 hrs 8 mins  █████░░░░░░░░░░░░░░░░░░░░   19.57 %
+Vue.js         200 hrs 10 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.72 %
+C++            113 hrs 56 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+HTML           86 hrs 22 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+JavaScript     72 hrs 45 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
 ```
 
 <!--END_SECTION:waka-->
