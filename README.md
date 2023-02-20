@@ -3,8 +3,7 @@
 - [x] YA
 - [x] YB
 - [x] YD
-- [ ] CHK
-- [ ] CTWABC
+- [ ] YC
 
 ---
 
