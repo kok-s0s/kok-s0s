@@ -5,8 +5,6 @@
 - [x] YD
 - [ ] YC
 
-![](https://raw.githubusercontent.com/kok-s0s/kok-s0s/main/assets/github-contribution-grid-snake.svg)
-
 <!--START_SECTION:waka-->
 
 ```text
@@ -23,3 +21,5 @@ JavaScript     73 hrs 25 mins  █▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+![](https://raw.githubusercontent.com/kok-s0s/kok-s0s/main/assets/github-contribution-grid-snake.svg)
