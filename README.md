@@ -5,7 +5,7 @@
 - [x] YD
 - [ ] YC
 
----
+![](https://raw.githubusercontent.com/kok-s0s/kok-s0s/main/assets/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
 
