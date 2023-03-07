@@ -8,11 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 October 2021 - To: 04 March 2023
+From: 12 October 2021 - To: 05 March 2023
 
 Total Time: 1,256 hrs 57 mins
 
-Markdown       254 hrs 57 mins █████░░░░░░░░░░░░░░░░░░░░   20.28 %
+Markdown       254 hrs 58 mins █████░░░░░░░░░░░░░░░░░░░░   20.28 %
 TypeScript     253 hrs 8 mins  █████░░░░░░░░░░░░░░░░░░░░   20.14 %
 Vue.js         200 hrs 34 mins ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
 C++            171 hrs 20 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
