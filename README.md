@@ -21,5 +21,3 @@ JavaScript     76 hrs 25 mins  █▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-![](https://raw.githubusercontent.com/kok-s0s/kok-s0s/main/assets/github-contribution-grid-snake.svg)
