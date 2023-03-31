@@ -1,9 +1,10 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch: # for manual workflow trigger
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # runs at every 12AM UTC
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
@@ -12,9 +13,10 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: waka_17dae33c-c49f-4377-a1bb-9701c1f036f6
+          WAKATIME_API_KEY: waka_9c15dfd4-3716-4068-ba51-77bf56831613
           SHOW_TITLE: true
+          BLOCKS: ->
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          BLOCKS: ->
+          LANG_COUNT: 10
