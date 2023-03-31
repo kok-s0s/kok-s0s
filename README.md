@@ -9,8 +9,6 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 C++                      15 hrs 49 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.89 % 
 Markdown                 9 hrs 31 mins       ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.23 % 
@@ -29,5 +27,5 @@ Mac                      3 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 31/03/2023 12:52:53 UTC
+ Last Updated on 31/03/2023 13:04:18 UTC
 <!--END_SECTION:waka-->
