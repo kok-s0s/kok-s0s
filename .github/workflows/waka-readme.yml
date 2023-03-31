@@ -1,21 +1,16 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: "0 0 * * *"
-
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: waka_e7b31271-7a31-4459-8f5b-8fe4ec1a2501
-          SHOW_TITLE: true
-          BLOCKS: ->
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
+          WAKATIME_API_KEY: waka_dfa289f7-876c-49b5-8696-7bbecf1e3bb2
+          GH_TOKEN: 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
