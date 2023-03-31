@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: waka_d5e8953f-5c3e-4a96-bd7b-359e938b3cab
+          WAKATIME_API_KEY: waka_17dae33c-c49f-4377-a1bb-9701c1f036f6
           SHOW_TITLE: true
           TIME_RANGE: all_time
           SHOW_TIME: true
