@@ -1,9 +1,6 @@
 # R . I . D . E . R
 
-- [x] YA
-- [x] YB
-- [x] YD
-- [ ] YC
+> Always on the road
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
