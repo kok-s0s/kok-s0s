@@ -40,7 +40,7 @@
 | ☀️ | **Clear ** | 🌡️ `21°C` &nbsp;*(feels 21°C)* |
 |:---:|:---|:---|
 | 💧 Humidity | `88%` | 📍 Beijing, China |
-| 💨 Wind | `4 km/h S` | 🕐 `2026-05-23 15:21 UTC` |
+| 💨 Wind | `4 km/h E` | 🕐 `2026-05-23 18:16 UTC` |
 
 *Auto-updated every 3 hours via GitHub Actions*
 <!-- WEATHER-END -->
