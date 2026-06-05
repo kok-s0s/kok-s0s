@@ -40,7 +40,7 @@
 | ⛅ | **Partly Cloudy ** | 🌡️ `21°C` &nbsp;*(feels 21°C)* |
 |:---:|:---|:---|
 | 💧 Humidity | `56%` | 📍 Beijing, China |
-| 💨 Wind | `9 km/h S` | 🕐 `2026-06-05 15:58 UTC` |
+| 💨 Wind | `5 km/h ENE` | 🕐 `2026-06-05 18:34 UTC` |
 
 *Auto-updated every 3 hours via GitHub Actions*
 <!-- WEATHER-END -->
