@@ -40,7 +40,7 @@
 | ☀️ | **Clear ** | 🌡️ `11°C` &nbsp;*(feels 12°C)* |
 |:---:|:---|:---|
 | 💧 Humidity | `100%` | 📍 Beijing, China |
-| 💨 Wind | `4 km/h NNW` | 🕐 `2026-06-06 18:22 UTC` |
+| 💨 Wind | `4 km/h W` | 🕐 `2026-06-06 21:20 UTC` |
 
 *Auto-updated every 3 hours via GitHub Actions*
 <!-- WEATHER-END -->
