@@ -40,7 +40,7 @@
 | 🌧️ | **Light Rain Shower** | 🌡️ `17°C` &nbsp;*(feels 17°C)* |
 |:---:|:---|:---|
 | 💧 Humidity | `94%` | 📍 Beijing, China |
-| 💨 Wind | `8 km/h NNE` | 🕐 `2026-06-05 21:28 UTC` |
+| 💨 Wind | `12 km/h NNE` | 🕐 `2026-06-06 00:24 UTC` |
 
 *Auto-updated every 3 hours via GitHub Actions*
 <!-- WEATHER-END -->
