@@ -37,10 +37,10 @@
 ### 🌤️ &nbsp;Weather &nbsp;·&nbsp; 天气
 
 <!-- WEATHER-START -->
-| 🌦️ | **Patchy light drizzle** | 🌡️ `20°C` &nbsp;*(feels 20°C)* |
+| 🌧️ | **Patchy rain nearby** | 🌡️ `21°C` &nbsp;*(feels 21°C)* |
 |:---:|:---|:---|
-| 💧 Humidity | `88%` | 📍 Beijing, China |
-| 💨 Wind | `4 km/h ENE` | 🕐 `2026-06-12 21:30 UTC` |
+| 💧 Humidity | `83%` | 📍 Beijing, China |
+| 💨 Wind | `4 km/h ESE` | 🕐 `2026-06-13 00:30 UTC` |
 
 *Auto-updated every 3 hours via GitHub Actions*
 <!-- WEATHER-END -->
