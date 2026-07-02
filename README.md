@@ -40,7 +40,7 @@
 | 🌫️ | **Smoky haze** | 🌡️ `23°C` &nbsp;*(feels 25°C)* |
 |:---:|:---|:---|
 | 💧 Humidity | `89%` | 📍 Beijing, China |
-| 💨 Wind | `9 km/h ENE` | 🕐 `2026-07-02 19:05 UTC` |
+| 💨 Wind | `7 km/h ENE` | 🕐 `2026-07-02 21:56 UTC` |
 
 *Auto-updated every 3 hours via GitHub Actions*
 <!-- WEATHER-END -->
