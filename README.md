@@ -40,7 +40,7 @@
 | 🌧️ | **Patchy rain nearby** | 🌡️ `28°C` &nbsp;*(feels 31°C)* |
 |:---:|:---|:---|
 | 💧 Humidity | `69%` | 📍 Beijing, China |
-| 💨 Wind | `13 km/h SSW` | 🕐 `2026-07-28 16:26 UTC` |
+| 💨 Wind | `13 km/h SSW` | 🕐 `2026-07-28 19:02 UTC` |
 
 *Auto-updated every 3 hours via GitHub Actions*
 <!-- WEATHER-END -->
