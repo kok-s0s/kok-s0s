@@ -39,8 +39,8 @@
 <!-- WEATHER-START -->
 | ⛈️ | **Thundery outbreaks in nearby** | 🌡️ `36°C` &nbsp;*(feels 40°C)* |
 |:---:|:---|:---|
-| 💧 Humidity | `42%` | 📍 Beijing, China |
-| 💨 Wind | `19 km/h ESE` | 🕐 `2026-08-07 06:20 UTC` |
+| 💧 Humidity | `44%` | 📍 Beijing, China |
+| 💨 Wind | `15 km/h E` | 🕐 `2026-08-07 09:18 UTC` |
 
 *Auto-updated every 3 hours via GitHub Actions*
 <!-- WEATHER-END -->
