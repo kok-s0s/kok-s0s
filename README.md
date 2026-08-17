@@ -40,7 +40,7 @@
 | 🌧️ | **Patchy rain nearby** | 🌡️ `10°C` &nbsp;*(feels 5°C)* |
 |:---:|:---|:---|
 | 💧 Humidity | `69%` | 📍 Beijing, China |
-| 💨 Wind | `38 km/h SSW` | 🕐 `2026-08-17 09:12 UTC` |
+| 💨 Wind | `43 km/h SSW` | 🕐 `2026-08-17 12:03 UTC` |
 
 *Auto-updated every 3 hours via GitHub Actions*
 <!-- WEATHER-END -->
