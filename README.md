@@ -39,8 +39,8 @@
 <!-- WEATHER-START -->
 | ☀️ | **Sunny** | 🌡️ `32°C` &nbsp;*(feels 29°C)* |
 |:---:|:---|:---|
-| 💧 Humidity | `28%` | 📍 Beijing, China |
-| 💨 Wind | `21 km/h WNW` | 🕐 `2026-08-29 06:02 UTC` |
+| 💧 Humidity | `30%` | 📍 Beijing, China |
+| 💨 Wind | `18 km/h WNW` | 🕐 `2026-08-29 09:01 UTC` |
 
 *Auto-updated every 3 hours via GitHub Actions*
 <!-- WEATHER-END -->
