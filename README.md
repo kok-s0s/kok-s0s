@@ -40,7 +40,7 @@
 | ☁️ | **Overcast ** | 🌡️ `28°C` &nbsp;*(feels 28°C)* |
 |:---:|:---|:---|
 | 💧 Humidity | `42%` | 📍 Beijing, China |
-| 💨 Wind | `8 km/h SSW` | 🕐 `2026-09-19 06:02 UTC` |
+| 💨 Wind | `13 km/h SSW` | 🕐 `2026-09-19 09:01 UTC` |
 
 *Auto-updated every 3 hours via GitHub Actions*
 <!-- WEATHER-END -->
