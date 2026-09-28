@@ -39,8 +39,8 @@
 <!-- WEATHER-START -->
 | 🌫️ | **Smoky haze** | 🌡️ `18°C` &nbsp;*(feels 16°C)* |
 |:---:|:---|:---|
-| 💧 Humidity | `39%` | 📍 Beijing, China |
-| 💨 Wind | `6 km/h NE` | 🕐 `2026-09-27 21:01 UTC` |
+| 💧 Humidity | `50%` | 📍 Beijing, China |
+| 💨 Wind | `4 km/h E` | 🕐 `2026-09-28 00:05 UTC` |
 
 *Auto-updated every 3 hours via GitHub Actions*
 <!-- WEATHER-END -->
