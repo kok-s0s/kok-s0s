@@ -39,8 +39,8 @@
 <!-- WEATHER-START -->
 | ☁️ | **Overcast ** | 🌡️ `15°C` &nbsp;*(feels 10°C)* |
 |:---:|:---|:---|
-| 💧 Humidity | `45%` | 📍 Beijing, China |
-| 💨 Wind | `20 km/h NW` | 🕐 `2026-10-17 17:34 UTC` |
+| 💧 Humidity | `41%` | 📍 Beijing, China |
+| 💨 Wind | `17 km/h NW` | 🕐 `2026-10-17 19:46 UTC` |
 
 *Auto-updated every 3 hours via GitHub Actions*
 <!-- WEATHER-END -->
