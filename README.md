@@ -39,8 +39,8 @@
 <!-- WEATHER-START -->
 | ☀️ | **Clear** | 🌡️ `13°C` &nbsp;*(feels 10°C)* |
 |:---:|:---|:---|
-| 💧 Humidity | `28%` | 📍 Beijing, China |
-| 💨 Wind | `8 km/h SSE` | 🕐 `2026-10-18 17:37 UTC` |
+| 💧 Humidity | `30%` | 📍 Beijing, China |
+| 💨 Wind | `7 km/h SSE` | 🕐 `2026-10-18 19:47 UTC` |
 
 *Auto-updated every 3 hours via GitHub Actions*
 <!-- WEATHER-END -->
